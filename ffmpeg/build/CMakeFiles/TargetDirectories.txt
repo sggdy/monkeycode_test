@@ -1,0 +1,4 @@
+C:/Users/wtoe/Desktop/monkey-ai/ffmpeg/build/CMakeFiles/ts_to_mp4.dir
+C:/Users/wtoe/Desktop/monkey-ai/ffmpeg/build/CMakeFiles/h264_to_h265.dir
+C:/Users/wtoe/Desktop/monkey-ai/ffmpeg/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/wtoe/Desktop/monkey-ai/ffmpeg/build/CMakeFiles/ZERO_CHECK.dir
